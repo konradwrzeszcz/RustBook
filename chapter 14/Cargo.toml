@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "adder",
+    "add-one-konwrz20",
+    "add-two"
+]
